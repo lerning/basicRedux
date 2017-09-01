@@ -1,8 +1,8 @@
 export default () => {
    return [
-      { title: 'harry potter'},
-      { title: 'LOTR'},
-      { title: 'mishtborn'}
+      { title: 'harry potter', page: 107},
+      { title: 'LOTR', pages: 405},
+      { title: 'mishtborn', pages: 1000}
    ]
 
 }
